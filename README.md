@@ -95,4 +95,4 @@ Aferter read the QRCode with the app of [expo](https://play.google.com/store/app
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Proffy](https://github.com/AdSoNaTuRaL/Proffy/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+Feel free to **create a new issue** with a respective title and description on the [Proffy](https://github.com/AdSoNaTuRaL/Proffy/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
