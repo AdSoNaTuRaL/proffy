@@ -2,12 +2,8 @@
    <img src="https://user-images.githubusercontent.com/26275918/89659962-ee3d1880-d8d0-11ea-993f-ae3891ea47dc.png" alt="Proffy" width="280"/>
 </p>
 
-> :rocket: Project made to connect teachers to students, made in Next Level Week #2 @Rocketseat
-
 <div align="center">
-  <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/AdSoNaTuRaL">Adson Henrique</a>
-  </sub>
+  <h4>:rocket: Project made to connect teachers to students</h4>
 </div>
 
 # :pushpin: Table of Contents
